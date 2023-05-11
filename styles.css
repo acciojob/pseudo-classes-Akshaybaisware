@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .container{
-	background-color:skyblue;
+	background-color:rgb(135, 206, 235);
 	height:600px;
 }
 h1{
-	background-color:black;
+	background-color:rgb(0, 0, 0);
 	color:white;
 }
 
@@ -13,11 +13,11 @@ h1{
 }
 
 li:first-child{
-  background-color:white;
+  background-color:rgb(255, 255, 255);
 }
 
 li:last-child{
-  background-color:white;
+  background-color:rgb(255, 255, 255)
 }
 
 li:nth-child(2){
